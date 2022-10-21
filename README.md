@@ -1,4 +1,4 @@
-##  SPHYNX: ReLU-Efficient Network Design for Private Inference - Published in [IEEE Privacy & Security](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9786822)
+##  SPHYNX: A Deep Neural Network Design for Private Inference - Published in [IEEE Privacy & Security](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9786822)
 
 #### Authors: Minsu Cho, Zahra Ghodsi, Brandon Reagen, Siddharth Garg, and Chinmay Hegde
 
